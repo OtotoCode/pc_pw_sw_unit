@@ -8,7 +8,7 @@ import subprocess
 OUTPUT=16
 
 #host ip
-HOST="192.168.11.5"
+HOST="ip address"
 
 #initialize
 def init():
